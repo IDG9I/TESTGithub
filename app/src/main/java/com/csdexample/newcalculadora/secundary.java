@@ -10,4 +10,7 @@ public class secundary extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.secundary);
     }
+
+
+
 }
